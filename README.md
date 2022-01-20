@@ -1,2 +1,4 @@
-# aula-bootstrap-dio
-Aula da Dio com Bootstrap
+# Aula de Bootstrap da DIO
+
+### Treinando tipos de páginas responsivas com Bootstrap :smile:
+
